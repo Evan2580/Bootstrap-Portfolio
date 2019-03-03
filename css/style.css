@@ -1,0 +1,49 @@
+.name {
+  /* padding: 0px 0px 0px 100px; */
+  /* margin-left: 140px; */
+}
+.body {
+  background-image: url("../images/Background.png");
+  width: 100%;
+}
+
+.inner-body {
+  background-color: #ffffff;
+  /* width: 960px; */
+  /* margin-left: 100px; */
+  align-content: center;
+
+}
+.jumbo-body{
+  width: 900px;
+  margin: auto;
+
+}
+
+#main {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.jumbo-body {
+  align-content: center;
+}
+
+.footer {
+  height: 50px;
+  margin: 0 auto;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+
+}
+
+.header {
+ margin: auto;
+}
+
+img {
+  padding: 10px;
+}
